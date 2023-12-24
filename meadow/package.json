@@ -1,7 +1,7 @@
 {
   "name": "meadow",
   "version": "0.1.0",
-  "homepage": "https://Mushfiqur1110.github.io",
+  "homepage": "https://Mushfiqur1110.github.io/meadow",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
